@@ -1,0 +1,8 @@
+com\universidad\patronstate\impl\estados\ModeracionEstado.class
+com\universidad\sinpatronstate\entidades\Documento.class
+com\universidad\patronstate\inter\estados\EstadoDocumento.class
+com\universidad\sinpatronstate\Main.class
+com\universidad\patronstate\impl\estados\PublicadoEstado.class
+com\universidad\patronstate\impl\estados\BorradorEstado.class
+com\universidad\patronstate\Main.class
+com\universidad\patronstate\entidades\Documento.class
